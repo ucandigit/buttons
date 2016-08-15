@@ -1,0 +1,20 @@
+{
+  "name": "ucanbuttons",
+  "version": "1.2.0",
+  "description": "Buttons",
+  "main": "dist/style.css",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucandigit/buttons.git"
+  },
+  "keywords": [
+    "buttons"
+  ],
+  "author": "ucandigit.xyz",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ucandigit/buttons/issues"
+  },
+  "homepage": "https://github.com/ucandigit/buttons"
+}
